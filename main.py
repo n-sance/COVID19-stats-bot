@@ -17,7 +17,7 @@ from telegram import (ReplyKeyboardMarkup, ReplyKeyboardRemove)
 from telegram.ext import (Updater, CommandHandler, MessageHandler, Filters,
                           ConversationHandler)
 
-TOKEN = '1214641178:AAFJCwHlZSj31pjX-Gzmh2lOf-YKdXVIQPY'
+TOKEN = 'your token should be pasted here'
 
 russia = '🇷🇺'
 world = '🌎'
