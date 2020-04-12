@@ -9,7 +9,7 @@ pylint==2.1.1
 pyserial==3.4
 pyTelegramBotAPI==3.6.6
 PyYAML==3.13
-requests==2.7.0
+requests==2.20.0
 serial==0.0.67
 six==1.11.0
 wrapt==1.10.11
