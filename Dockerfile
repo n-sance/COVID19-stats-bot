@@ -16,4 +16,4 @@ EXPOSE 443 80 22
 
 COPY *.py ./
 
-ENTRYPOINT /bin/sh
+RUN python main.py
